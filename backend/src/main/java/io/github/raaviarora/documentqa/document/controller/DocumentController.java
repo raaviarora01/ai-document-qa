@@ -1,9 +1,8 @@
-package io.github.raaviarora.document_qa.document.controller;
+package io.github.raaviarora.documentqa.document.controller;
 
-import io.github.raaviarora.document_qa.document.dto.DocumentUploadResponse;
-import io.github.raaviarora.document_qa.document.service.DocumentService;
+import io.github.raaviarora.documentqa.document.dto.DocumentUploadResponse;
+import io.github.raaviarora.documentqa.document.service.DocumentService;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

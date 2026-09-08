@@ -11,8 +11,8 @@
 	<groupId>io.github.raaviarora</groupId>
 	<artifactId>document-qa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+    <name>document-qa</name>
+    <description>AI-powered document Q/A system using RAG</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -62,6 +62,12 @@
 			<artifactId>spring-boot-starter-webmvc-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+        <dependency>
+            <groupId>org.apache.pdfbox</groupId>
+            <artifactId>pdfbox</artifactId>
+            <version>3.0.8</version>
+        </dependency>
 	</dependencies>
 
 	<build>

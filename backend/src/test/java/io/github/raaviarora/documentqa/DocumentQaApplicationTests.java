@@ -1,4 +1,4 @@
-package io.github.raaviarora.document_qa;
+package io.github.raaviarora.documentqa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

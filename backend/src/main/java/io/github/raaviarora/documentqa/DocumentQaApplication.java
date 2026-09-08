@@ -1,4 +1,4 @@
-package io.github.raaviarora.document_qa;
+package io.github.raaviarora.documentqa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
